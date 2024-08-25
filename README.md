@@ -53,11 +53,7 @@ I am a Full Stack Developer from Austria.
 	&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />
 	&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />
-	&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
-	&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rollup/rollup-plain.svg" title="Rollup" alt="Rollup" width="40" height="40" />
 	&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB " width="40" height="40" />
 	&nbsp;
