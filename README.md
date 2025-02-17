@@ -7,13 +7,12 @@
   <br />
 	<div>
 		<a href="https://linkedin.com/in/m00nbyte">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 		</a>
 		<a href="https://www.npmjs.com/~m00nbyte">
-		<img src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white" alt="Twitter" />
+			<img src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white" alt="Twitter" />
 		</a>
 	</div>
-	<img src="https://visitcount.itsvg.in/api?id=m00nbyte&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
 	<h1>
 		<span>Hey there</span>
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
