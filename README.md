@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Logo -->
   <div>
-    <img src="https://moonbyte.at/img/logo/logo_white.png" height="60" />
+    <img src="https://moonbyte.at/img/logo_white.png" height="60" />
     &nbsp;&nbsp;
-    <img src="https://moonbyte.at/img/logo/text_white.png" height="60" />
+    <img src="https://moonbyte.at/img/text_white.png" height="60" />
   </div>
   <br />
 
