@@ -108,18 +108,6 @@ I'm a **Full Stack Developer** from Austria, passionate about clean code, perfor
 
 ---
 
-### 🔥 Some Stats
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m00nbyte&theme=dark&hide_border=true" alt="Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=m00nbyte&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m00nbyte&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <em>Made with ❤️ and a little moonlight coding ☾</em>
 </div>
